@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Debrajx77",
-  resume:"",
+  resume:"public/Debraj_Sarkar_Resume.pdf",
   linkedin: "www.linkedin.com/in/debraj-sarkar-4a7685244",
   twitter: "https://twitter.com/idebrajsarkar",
   insta: "https://www.instagram.com/i.debrajsarkar/",
